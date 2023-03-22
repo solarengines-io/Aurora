@@ -4,7 +4,7 @@ from AuroraSolarClient import AuroraSolarClient
 
 app = Flask(__name__)
 
-GHL_API_KEY = "4ab1c4ca-d558-4598-b9d8-d37dc95ae002"
+GHL_API_KEY = "GHL API Key"
 AURORA_API_KEY = "XXXXXXXX"
 
 # Webhook listener
